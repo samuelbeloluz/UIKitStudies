@@ -1,4 +1,4 @@
-Translate to English: AutoLayout
+AutoLayout
 
 When we create a View in a certain screen size, when emulating on other devices, we will see that our elements will be out of order, and this is because smartphones have different screen sizes.
 AutoLayout is precisely to avoid this problem. By building a screen in a specific size, we can maintain proportionality in different screen sizes. It works using Constraints, which are "rules" that help maintain the proportionality of the elements.
